@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ab2pentest
-- 👀 I’m interested in Security
+- 👀 I’m interested in Web/Server Security, Ethical Hacking, Python/PHP ...
 - 🌱 I’m currently learning how to sleep all the day !
 - 💞️ I’m looking to collaborate on many security projects.
 - 📫 How to reach me Discord: AB2#5443
