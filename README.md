@@ -10,3 +10,5 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ab2pentest&show_icons=true&hide_border=false&locale=en&layout=compact&theme=dark&exclude_repo=Wappalyzer4Docker" alt="ab2pentest" /></p>
+
+![](https://komarev.com/ghpvc/?username=ab2pentest&color=grey)
