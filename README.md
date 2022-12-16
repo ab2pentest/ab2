@@ -1,10 +1,11 @@
 ![](https://komarev.com/ghpvc/?username=ab2pentest&style=plastic&label=PROFILE+VISITORS)
 
-- 👋 Hi, I’m [AB2](https://twitter.com/ab2pentest).
-- 👀 I’m interested in Penetration Testing, Bug Hunting, Malware Analysis, Forensics, Reverse Engineering and in `CaptureTheFlag` :smile: [CTFTime](https://ctftime.org/user/110409).
-- 🌱 I’m currently learning how to hack without googling !
-- 💞️ I’m looking to collaborate on many security projects, I also share some writeups => [Blog](https://ab2pentest.github.io/) & [Medium](https://medium.com/@ab2pentest)
-- 📫 How to reach me ? => [Discord: AB2#5443] Or [Email: ab2pentest@gmail.com]
+- 👋 Hello, I’m [AB2](https://twitter.com/ab2pentest).
+- 👀 I am a cybersecurity professional with a focus on penetration testing, bug hunting, malware analysis, forensics, and reverse engineering.
+- 🎯 I have a strong interest in Capture the Flag (CTF) events and can be found competing on [CTFTime](https://ctftime.org/user/110409), If you are also interested in CTFs, please feel free to join my Discord server [CTFTime-BOT](https://discord.gg/MW9cWMuw63).
+- 🎰 I am always looking for opportunities to collaborate on security projects and have a track record of sharing my findings and insights through my [Blog](https://ab2pentest.github.io/) and on [Medium](https://medium.com/@ab2pentest).
+- 📫 If you would like to discuss potential collaborations or have any questions, please don't hesitate to reach out to me via Discord `AB2#5443` or email [ab2pentest@gmail.com](ab2pentest@gmail.com).
+- 💞️ Thank you for visiting my profile.
 
 <!---
 ab2pentest/ab2pentest is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
