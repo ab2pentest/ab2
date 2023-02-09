@@ -1,5 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=ab2pentest&style=plastic&label=PROFILE+VISITORS)
 
+## Whoami
+
 - 👋 Hello, I’m [AB2](https://twitter.com/ab2pentest).
 - 👀 I am a cybersecurity professional with a focus on penetration testing, bug hunting, malware analysis, forensics, and reverse engineering.
 - 🎯 I have a strong interest in Capture the Flag (CTF) events and can be found competing on [CTFTime](https://ctftime.org/user/110409), If you are also interested in CTFs, please feel free to join my Discord server [CTFTime-BOT](https://discord.gg/MW9cWMuw63).
@@ -12,4 +14,16 @@ ab2pentest/ab2pentest is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ab2pentest&show_icons=true&hide_border=false&locale=en&layout=compact&theme=dark&exclude_repo=Wappalyzer4Docker" alt="ab2pentest" /></p>
+## GitHub stats
+
+<p>
+  <img src="https://github-profile-trophy.vercel.app/?username=ab2pentest&theme=onedark&no-frame=true&column=7" alt="ab2pentest"/>
+</p>
+
+
+<p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ab2pentest&show_icons=true&hide_border=false&locale=en&layout=compact&theme=dark&exclude_repo=Wappalyzer4Docker" alt="ab2pentest"/>
+</p>
+
+## HackTheBox stats
+![AB2](https://www.hackthebox.eu/badge/image/1303)
