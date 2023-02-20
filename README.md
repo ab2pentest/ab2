@@ -27,3 +27,7 @@ You can click the Preview link to take a look at your changes.
 
 ## HackTheBox stats
 ![AB2](https://www.hackthebox.eu/badge/image/1303)
+
+## TryHackMe stats
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/AB2.png" alt="TryHackMe">
